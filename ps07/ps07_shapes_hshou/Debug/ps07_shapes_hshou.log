@@ -1,0 +1,60 @@
+﻿  ViewManager.cpp
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(126,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(127,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(129,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(130,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(290,12): warning C4553: '==': result of expression not used; did you intend '='?
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(299,12): warning C4553: '==': result of expression not used; did you intend '='?
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(305,13): warning C4553: '==': result of expression not used; did you intend '='?
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(334,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(334,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(335,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(335,11): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(517,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(517,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(518,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(518,11): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(557,21): warning C4018: '<': signed/unsigned mismatch
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(536,6): warning C4101: 'adjustLetter': unreferenced local variable
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2575,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(486): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\C++\ps07_shapes_hshou\ps07_shapes_hshou\ViewManager.cpp(486): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  ps07_shape_hshou.cpp
+  Generating Code...
+  ps07_shapes_hshou.vcxproj -> D:\C++\ps07_shapes_hshou\Debug\ps07_shapes_hshou.exe
