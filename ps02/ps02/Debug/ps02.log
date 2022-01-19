@@ -1,0 +1,4 @@
+﻿  ps02.cpp
+D:\C++\ps02\ps02\ps02.cpp(19,23): warning C4101: 'y_array': unreferenced local variable
+D:\C++\ps02\ps02\ps02.cpp(19,9): warning C4101: 'x_array': unreferenced local variable
+  ps02.vcxproj -> D:\C++\ps02\Debug\ps02.exe
