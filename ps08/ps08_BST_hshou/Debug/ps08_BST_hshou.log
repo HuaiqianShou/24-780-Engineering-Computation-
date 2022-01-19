@@ -1,0 +1,99 @@
+﻿  DrawingUtilNG.cpp
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(15,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(72,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(73,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(74,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(83,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(90,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(101,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(102,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(115,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(115,13): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(116,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(116,15): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(117,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(117,15): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(118,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(118,13): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\DrawingUtilNG.cpp(229,45): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  fssimplewindow.cpp
+  GraphicFont.cpp
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(26,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(30,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(82,19): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(146,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(147,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(150,20): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(218,12): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(224,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(225,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(261,12): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(267,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\GraphicFont.cpp(268,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  wordCloud_main_hshou.cpp
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(64,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(73,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(73,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(72,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(72,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(119,20): warning C4305: '*=': truncation from 'double' to 'float'
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(122,20): warning C4305: '/=': truncation from 'double' to 'float'
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(136,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(136,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(135,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(135,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(167,21): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(233,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\BST_hshou.h(248,17): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\BST_hshou.h(246): message : while compiling class template member function 'const TN &BST<std::string,TN>::nextNode(void)'
+          with
+          [
+              TN=TreeNode<std::string>
+          ]
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(113): message : see reference to function template instantiation 'const TN &BST<std::string,TN>::nextNode(void)' being compiled
+          with
+          [
+              TN=TreeNode<std::string>
+          ]
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(28): message : see reference to class template instantiation 'BST<std::string,TreeNode<std::string>>' being compiled
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\BST_hshou.h(132,17): warning C4018: '>=': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\BST_hshou.h(123): message : while compiling class template member function 'void BST<std::string,TreeNode<std::string>>::insertItem(const T &,int)'
+          with
+          [
+              T=std::string
+          ]
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(80): message : see reference to function template instantiation 'void BST<std::string,TreeNode<std::string>>::insertItem(const T &,int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\BST_hshou.h(169,35): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\BST_hshou.h(168): message : while compiling class template member function 'void BST<std::string,TreeNode<std::string>>::printInOrder(std::ostream &,int)'
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(32): message : see reference to function template instantiation 'void BST<std::string,TreeNode<std::string>>::printInOrder(std::ostream &,int)' being compiled
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\BST_hshou.h(189,32): warning C4018: '<': signed/unsigned mismatch
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\BST_hshou.h(183): message : while compiling class template member function 'int BST<std::string,TreeNode<std::string>>::findItem(const T &,int)'
+          with
+          [
+              T=std::string
+          ]
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\BST_hshou.h(157): message : see reference to function template instantiation 'int BST<std::string,TreeNode<std::string>>::findItem(const T &,int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\BST_hshou.h(239): message : while compiling class template member function 'const TN &BST<std::string,TN>::firstNode(void)'
+          with
+          [
+              TN=TreeNode<std::string>
+          ]
+E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\ps08_BST_hshou\wordCloud_main_hshou.cpp(99): message : see reference to function template instantiation 'const TN &BST<std::string,TN>::firstNode(void)' being compiled
+          with
+          [
+              TN=TreeNode<std::string>
+          ]
+  yspng.cpp
+  Generating Code...
+  ps08_BST_hshou.vcxproj -> E:\CMU\24780 Engineering Computation\HW_hshou\ps08_BST_hshou\Debug\ps08_BST_hshou.exe
