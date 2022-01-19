@@ -1,0 +1,17 @@
+﻿  ps03springcurve.cpp
+D:\C++\ps03\ps03\ps03springcurve.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\ps03\ps03\ps03springcurve.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\ps03\ps03\ps03springcurve.cpp(110,45): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\C++\ps03\ps03\ps03springcurve.cpp(110,28): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\C++\ps03\ps03\ps03springcurve.cpp(134,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C++\ps03\ps03\ps03springcurve.cpp(134,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C++\ps03\ps03\ps03springcurve.cpp(148,7): warning C4101: 'initialinput': unreferenced local variable
+  ps03.vcxproj -> D:\C++\ps03\Debug\ps03.exe
