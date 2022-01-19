@@ -1,0 +1,7 @@
+﻿  GearViewer.cpp
+D:\C++\ps04gears\ps04gears\Gear.h(45,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\ps04gears\ps04gears\GearViewer.cpp(70,22): warning C4018: '>=': signed/unsigned mismatch
+D:\C++\ps04gears\ps04gears\GearViewer.cpp(137,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++\ps04gears\ps04gears\GearViewer.cpp(157,3): error C2065: 'getOriginAnds': undeclared identifier
+D:\C++\ps04gears\ps04gears\GearViewer.cpp(161,3): error C2146: syntax error: missing ';' before identifier 'glColor3ub'
+D:\C++\ps04gears\ps04gears\GearViewer.cpp(177,43): warning C4018: '<': signed/unsigned mismatch

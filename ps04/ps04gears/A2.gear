@@ -1,0 +1,8 @@
+Gear:
+	partID: A2_temp
+	pitch: 0.5
+	numbTeeth: 16
+	startX: 57.5
+	startY: 23.7
+	startAngle: 50.0
+Gear End:
